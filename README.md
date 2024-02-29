@@ -1,1 +1,5 @@
-<h1>Data Structures</h1>
+## Data Structures Studies
+
+
+This repository is focused in implementation of 
+some important data structures.
